@@ -1,0 +1,21 @@
+#ramazani{
+    background-color: white;
+    color: black;
+}
+
+thead{
+    background-color: lightblue;
+    color: white;
+}
+
+tbody{
+    background-color: gray;
+    color: white;
+}
+
+table
+{
+    position: absolute;
+    left: 25%;
+    top: 25%;
+}
